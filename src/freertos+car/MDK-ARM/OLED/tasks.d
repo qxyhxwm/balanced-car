@@ -1,0 +1,16 @@
+oled\tasks.o: ..\Middlewares\freertos\source\tasks.c
+oled\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\tasks.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\tasks.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\tasks.o: ..\Middlewares\freertos\include\projdefs.h
+oled\tasks.o: ..\Middlewares\freertos\include\portable.h
+oled\tasks.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\tasks.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\tasks.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\tasks.o: ..\Middlewares\freertos\include\task.h
+oled\tasks.o: ..\Middlewares\freertos\include\list.h
+oled\tasks.o: ..\Middlewares\freertos\include\timers.h
+oled\tasks.o: ..\Middlewares\freertos\include\stack_macros.h

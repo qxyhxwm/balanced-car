@@ -1,0 +1,15 @@
+oled\queue.o: ..\Middlewares\freertos\source\queue.c
+oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\queue.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\queue.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\queue.o: ..\Middlewares\freertos\include\projdefs.h
+oled\queue.o: ..\Middlewares\freertos\include\portable.h
+oled\queue.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\queue.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\queue.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\queue.o: ..\Middlewares\freertos\include\task.h
+oled\queue.o: ..\Middlewares\freertos\include\list.h
+oled\queue.o: ..\Middlewares\freertos\include\queue.h

@@ -1,0 +1,14 @@
+oled\heap_4.o: ..\Middlewares\freertos\portable\heap_4.c
+oled\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\heap_4.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\heap_4.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\heap_4.o: ..\Middlewares\freertos\include\projdefs.h
+oled\heap_4.o: ..\Middlewares\freertos\include\portable.h
+oled\heap_4.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\heap_4.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\heap_4.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\heap_4.o: ..\Middlewares\freertos\include\task.h
+oled\heap_4.o: ..\Middlewares\freertos\include\list.h

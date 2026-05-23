@@ -1,0 +1,15 @@
+oled\event_groups.o: ..\Middlewares\freertos\source\event_groups.c
+oled\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\event_groups.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\event_groups.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\event_groups.o: ..\Middlewares\freertos\include\projdefs.h
+oled\event_groups.o: ..\Middlewares\freertos\include\portable.h
+oled\event_groups.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\event_groups.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\event_groups.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\event_groups.o: ..\Middlewares\freertos\include\task.h
+oled\event_groups.o: ..\Middlewares\freertos\include\list.h
+oled\event_groups.o: ..\Middlewares\freertos\include\timers.h
+oled\event_groups.o: ..\Middlewares\freertos\include\event_groups.h

@@ -1,0 +1,14 @@
+oled\stream_buffer.o: ..\Middlewares\freertos\source\stream_buffer.c
+oled\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\stream_buffer.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\projdefs.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\portable.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\stream_buffer.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\task.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\list.h
+oled\stream_buffer.o: ..\Middlewares\freertos\include\stream_buffer.h

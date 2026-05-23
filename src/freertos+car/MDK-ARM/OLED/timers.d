@@ -1,0 +1,15 @@
+oled\timers.o: ..\Middlewares\freertos\source\timers.c
+oled\timers.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\timers.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\timers.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\timers.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\timers.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\timers.o: ..\Middlewares\freertos\include\projdefs.h
+oled\timers.o: ..\Middlewares\freertos\include\portable.h
+oled\timers.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\timers.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\timers.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\timers.o: ..\Middlewares\freertos\include\task.h
+oled\timers.o: ..\Middlewares\freertos\include\list.h
+oled\timers.o: ..\Middlewares\freertos\include\queue.h
+oled\timers.o: ..\Middlewares\freertos\include\timers.h

@@ -1,0 +1,12 @@
+oled\port.o: ..\Middlewares\freertos\portable\port.c
+oled\port.o: ..\Middlewares\freertos\include\FreeRTOS.h
+oled\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\port.o: ..\Middlewares\freertos\FreeRTOSConfig.h
+oled\port.o: ..\Middlewares\freertos\include\projdefs.h
+oled\port.o: ..\Middlewares\freertos\include\portable.h
+oled\port.o: ..\Middlewares\freertos\include\deprecated_definitions.h
+oled\port.o: ..\Middlewares\freertos\portable\portmacro.h
+oled\port.o: ..\Middlewares\freertos\include\mpu_wrappers.h
+oled\port.o: ..\Middlewares\freertos\include\task.h
+oled\port.o: ..\Middlewares\freertos\include\list.h
